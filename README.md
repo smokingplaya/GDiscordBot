@@ -1,0 +1,2 @@
+# GDiscordBot
+Just my idea.
